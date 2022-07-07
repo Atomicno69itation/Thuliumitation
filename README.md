@@ -34,11 +34,11 @@
 
 ## 📈 Statistics
 ##### Visitor count (thanks :D)
-![Visitor Count](https://profile-counter.glitch.me/Thuliumitation/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Atomicno69itation/count.svg)
 
-[![Thuliumitation's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thuliumitation&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=True&icon_color=7fff00)](https://github.com/anuraghazra/github-readme-stats)
+[![Thuliumitation's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomicno69itation&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=True&icon_color=7fff00)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuliumitation&layout=compact&theme=chartreuse-dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomicno69itation&layout=compact&theme=chartreuse-dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🎥 Recent YouTube Videos
