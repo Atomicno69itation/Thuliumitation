@@ -53,17 +53,6 @@
 
 [Looking for more?](https://www.youtube.com/channel/UCuRL0c3JEu6MmFahbmz8BGw)
 
-
-### 🍴 Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#160](https://github.com/qwertyquerty/pypresence/issues/160) in [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence)
-2. 🗣 Commented on [#160](https://github.com/qwertyquerty/pypresence/issues/160) in [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence)
-3. 💪 Opened PR [#8](https://github.com/MystYT-21/hashily/pull/8) in [MystYT-21/hashily](https://github.com/MystYT-21/hashily)
-4. ❗️ Opened issue [#160](https://github.com/qwertyquerty/pypresence/issues/160) in [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence)
-<!--END_SECTION:activity-->
-
-
 ### 📚 Recent Stack Overflow Activity
 
 <!-- STACKOVERFLOW:START -->
